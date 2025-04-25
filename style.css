@@ -1,0 +1,43 @@
+
+*{
+    background-color: black;
+    overflow: hidden;
+} 
+ .navbar{
+    display: flex;
+    flex-wrap: nowrap;
+    background-color: black;
+    border: 2px solid white;
+    border-radius: 2px;
+    justify-content: center;
+    
+
+ }
+ .por{
+    margin-left: 0px;
+ }
+ 
+ a{
+    margin-left: 95px;
+    text-decoration: none;
+
+ }
+ h1{
+    color: white;
+    font-family: 'Comic Sans MS', cursive, sans-serif;
+    text-align: center;
+    margin-top: 50px;
+    
+ }
+ 
+ /* h1{
+    text-align: center;
+    margin-top: 50px;
+    
+ } */
+  
+.btn{
+   margin-left: 700px;
+   border: 2px solid white;
+}
+ 

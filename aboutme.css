@@ -1,0 +1,12 @@
+*{
+    background-color: black;
+    color: white;
+
+}
+h2{
+    text-align: center;
+}
+div{
+    height: 75px;
+    border-bottom: 2px solid white;
+}

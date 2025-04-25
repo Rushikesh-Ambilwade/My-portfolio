@@ -1,0 +1,18 @@
+*{
+    background-color: black;
+    color: white;
+}
+img{
+    height: 250px;
+    width: 250px;
+    margin-left: 50px;
+    border-radius: 50%;
+    border: 2px solid white;
+}
+h2{
+    text-align: center;
+}
+
+.image:hover{
+   opacity: 0.4;
+}
